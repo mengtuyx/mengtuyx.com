@@ -1,0 +1,10 @@
+# Build inputs — not part of the published site.
+# They contain the source template's original client identity and the
+# replacement mapping, and the repository is public. Keep them local.
+SPEC.txt
+tihuan.txt
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+desktop.ini
